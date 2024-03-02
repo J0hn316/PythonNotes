@@ -1,5 +1,7 @@
 ## The following python notes are from The Complete Python Developer Course by Andrei Neagoie.
 
+The link to his course is https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=JUST4U02223
+
 The topics covered in this course are:
 
 - Programming Fundamentals
